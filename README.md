@@ -1,7 +1,7 @@
 Hi 👋 My name is Ezekude francis
 ================================
 
-software / web developer |frankcodes.com
+software / web developer 
 ------------------------
 
 I'm a Software Engineer, Content Creator, and Junior Backend Developer who currently works as a Student at \[AltSchool Africa\](https://altschoolafrica.com/schools/engineering). I'm passionate about sharing knowledge, web engineering, researching, and others. I create technical content, build useful \[open-source projects\](https://github.com/Cashie11), build technical communities...and my Job interests are Software Engineer, Backend Developer (Intern or Junior level).
