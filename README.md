@@ -6,9 +6,9 @@ software / web developer
 
 I'm a Software Engineer, Content Creator, and Junior Backend Developer who currently works as a Student at \[AltSchool Africa\](https://altschoolafrica.com/schools/engineering). I'm passionate about sharing knowledge, web engineering, researching, and others. I create technical content, build useful \[open-source projects\](https://github.com/Cashie11), build technical communities...and my Job interests are Software Engineer, Backend Developer (Intern or Junior level).
 
-* 🌍  I'm based in Anambra, Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [frankizuchukwu094@gmail.com](mailto:frankizuchukwu094@gmail.com)
-* 🧠  I'm learning flask & django currently
+* 🧠  I'm la Django developer
 * 🤝  I'm open to collaborating on for help with open source projects, internships, and entry-level opportunities.
 * ⚡  😊 Pronouns: He/him
 
