@@ -1,5 +1,5 @@
 # Ezekude Francis
-### Backend Developer | Django Specialist
+### Backend Developer | Django and Laravel Specialist
 
 A dedicated Backend Developer specializing in Django, with practical experience in web development and a strong foundation in Python. Passionate about building scalable solutions and contributing to open-source projects.
 
