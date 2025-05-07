@@ -7,16 +7,17 @@ A dedicated Backend Developer specializing in Django, with practical experience 
 
 #### Core
 - Python | Django
+- Php | Laravel
 - RESTful APIs
 - Database Design
 
 #### Additional Skills
-- HTML5 | CSS3 | Bootstrap
+- HTML5 | CSS3 | Bootstrap | javascript
 - FastAPI | Flask
 - Version Control (Git)
 
 ## 💼 Professional Summary
-- Backend Developer focusing on Django-based solutions
+- Backend Developer focusing on Django-based and laravel solutions
 - Certified by AltSchool Africa and Tech365
 - Open to collaborative projects and continuous learning opportunities
 
